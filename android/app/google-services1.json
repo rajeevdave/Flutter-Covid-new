@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "894753730823",
+    "firebase_url": "https://stellar-verve-202215.firebaseio.com",
+    "project_id": "stellar-verve-202215",
+    "storage_bucket": "stellar-verve-202215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894753730823:android:f20bcac7c6b12a93ccd5a2",
+        "android_client_info": {
+          "package_name": "com.tendoll.covid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894753730823-3laicuij2frflrehfallqb9qfdo1etjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVszt0solSmNQ6-LR_xmvYUQrlTff8wgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894753730823-3laicuij2frflrehfallqb9qfdo1etjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
